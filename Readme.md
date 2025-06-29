@@ -82,11 +82,11 @@ This project aims to predict passenger survival on the Titanic using machine lea
 
 #### 🔍 ROC Curve
 Shows the model's ability to distinguish between survival and non-survival cases.
-![ROC Curve]<img src="ROC_Curve.png" width="1000">
+<img src="ROC_Curve.png" width="1000">
 
 #### 📊 Feature Importances
 Highlights which features influenced predictions the most.
-![Feature Importances]<img src="Feature_Importance.png" width="1000">
+<img src="Feature_Importance.png" width="1000">
 
 
 ### 🧾 Key Takeaways
