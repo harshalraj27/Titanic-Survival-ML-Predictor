@@ -1,0 +1,41 @@
+# === Python Cache and Metadata ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.manifest
+*.spec
+
+# === Jupyter Notebook Artifacts ===
+.ipynb_checkpoints/
+
+# === Virtual Environments ===
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+*.env
+
+# === CatBoost Logs ===
+catboost_info/
+
+# === Logs and Temp Files ===
+*.log
+nohup.out
+
+# === System Junk Files ===
+.DS_Store
+Thumbs.db
+
+# === IDE/Editor Settings ===
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# === Jupyter Runtime ===
+.jupyter/
+.ipython/
